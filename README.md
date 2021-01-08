@@ -24,6 +24,7 @@ Date of birth
 
 Days of holiday already taken
 
+
 In addition, there is the following three subclasses, which inherit the properties from the Employee class:
 
 HourlyEmployee, from whom the following additional information is stored in the system:
