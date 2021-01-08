@@ -38,3 +38,4 @@ The program covers the following situation:
 • Search for an employee and output of his/her data and how many remaining days of holiday he/she has
 • Listing of all stored employee data
 
+
