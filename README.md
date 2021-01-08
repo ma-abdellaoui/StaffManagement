@@ -37,3 +37,4 @@ The program covers the following situation:
 • Entering the days on which the employee wants to take a holiday (must be possible more than once)
 • Search for an employee and output of his/her data and how many remaining days of holiday he/she has
 • Listing of all stored employee data
+
